@@ -11,7 +11,7 @@
 - 💬 Ask me about **Html , CSS ,Javascript , React , Java etc ....**
 
 - 📫 How to reach me **bhaveshburad729@gmail.com**
-- 📄 Know about my experiences https://drive.google.com/file/d/1r293z2R2tRR5wWZGtI7j8u-NlfgGRH0u/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1ld3caAu8rmBanmq-kfWlN4zneLvx4NPZ/view
 
 
 
