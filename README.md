@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQE9kjnWJfM4qA/profile-displaybackgroundimage-shrink_350_1400/B56ZhWYdWqH0Ac-/0/1753795926444?e=1756944000&v=beta&t=zSN-eKybZddLKwUiYdpL6fXfOW-GRTybMDq0CspJVmY)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQE9kjnWJfM4qA/profile-displaybackgroundimage-shrink_350_1400/B56ZhWYdWqH0Ac-/0/1753795926444?e=1756944000&v=beta&t=zSN-eKybZddLKwUiYdpL6fXfOW-GRTybMDq0CspJVmY)
 <h1 align="center">Hi 👋, I'm Bhavesh Burad</h1>
 <h3 align="center">A passionate frontend developer,AI-Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
