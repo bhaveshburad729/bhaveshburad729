@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshburad729&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshburad729" /> </p>
 
-- 🔭 I’m currently working on **Data Structures And Algorithm , Learning AIDS(Artificial Intelligence And Data Science**
+- 🔭 I’m currently working on **Data Structures And Algorithm , Learning AIDS(Artificial Intelligence And Data Science )**
 
 - 🌱 I’m currently learning **Python using AI ,Data Science**
 
