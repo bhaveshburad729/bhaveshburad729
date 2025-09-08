@@ -10,9 +10,10 @@
 - 🌱 I’m currently learning **Python using AI ,Data Science**
 
 - 💬 Ask me about **Html , CSS ,Javascript , React , Java etc ....**
+👨‍💻 All of my projects are available at https://bhaveshburad729-portfolio.netlify.app/
 
 - 📫 How to reach me **bhaveshburad729@gmail.com**
-- 📄 Know about my experiences (Resume) https://drive.google.com/file/d/1ld3caAu8rmBanmq-kfWlN4zneLvx4NPZ/view
+- 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1ld3caAu8rmBanmq-kfWlN4zneLvx4NPZ/view](https://drive.google.com/file/d/1IvS4Xp849oBrvMxHtQ7j4tdHaxuTCxfP/view?usp=drive_link)
 
 
 
