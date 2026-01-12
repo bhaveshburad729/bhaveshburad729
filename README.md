@@ -1,36 +1,115 @@
+<!-- HERO SECTION -->
+<h1 align="center">Hey 👋, I'm Bhavesh Nitin Burad</h1>
+<h3 align="center">
+Full-Stack Python Developer • AI & Data Science Enthusiast • Dev-Driven Learner from India 🇮🇳
+</h3>
 
-<h1 align="center">Hi 👋, I'm Bhavesh Burad</h1>
-<h3 align="center">A passionate fullStack Python  developer, AI-Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshburad729&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshburad729" /> </p>
-
-- 🔭 I’m currently working on **Data Structures And Algorithm , Learning AIDS(Artificial Intelligence And Data Science )**
-
-- 🌱 I’m currently learning **Python using AI ,Data Science**
-
-- 💬 Ask me about **Html , CSS ,Javascript , React , Java etc ....**
-👨‍💻 All of my projects are available at https://bhaveshburad729-portfolio.netlify.app/
-
-- 📫 How to reach me **bhaveshburad729@gmail.com**
-- 📄 Know about my experiences (Resume) [https://drive.google.com/file/d/1ld3caAu8rmBanmq-kfWlN4zneLvx4NPZ/view](https://drive.google.com/file/d/1IvS4Xp849oBrvMxHtQ7j4tdHaxuTCxfP/view?usp=drive_link)
-
-
-
-- ⚡ Fun fact **I’ve already led a team in the Smart India Hackathon (SIH) while still being in your second year of engineering—something not many students can say! 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bhavesh-burad-22102a1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/me/" height="30" width="40" /></a>
-<a href="https://instagram.com/_burad_bhavesh_2_6_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_burad_bhavesh_2_6_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/code_slayer729" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="code_slayer729" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Python+Developer;AI+%26+Data+Science+Enthusiast;FastAPI+%7C+React+%7C+GenAI;Smart+India+Hackathon+Team+Lead;Building+Real-World+AI+Products" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshburad729&show_icons=true&locale=en&layout=compact" alt="bhaveshburad729" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bhaveshburad729&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshburad729&show_icons=true&locale=en" alt="bhaveshburad729" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshburad729&" alt="bhaveshburad729" /></p>
+<!-- SNAKE CONTRIBUTION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake.svg" />
+</picture>
+
+---
+
+## 💫 About Me
+
+- 👨‍💻 Second-year **Computer Engineering student** at NBN Sinhgad Technical Institute, Pune  
+- 🚀 **Team Lead – Smart India Hackathon (SIH)**  
+- 🤖 Passionate about **AI, Data Science & GenAI-powered systems**  
+- ⚙️ Backend-focused with **FastAPI, Python & scalable architectures**  
+- 🎯 Focused on solving **real-world problems with technology**
+
+---
+
+## 🔭 What I’m Currently Working On
+
+- 📚 **Data Structures & Algorithms**
+- 🤖 **Artificial Intelligence & Data Science**
+- 🧠 GenAI Projects:
+  - AI-powered Financial Assistant  
+  - Smart ITR Filing Chatbot  
+  - Resume Builder (Next.js + FastAPI)
+
+---
+
+## 🌱 Currently Learning
+
+- 🐍 Advanced **Python & FastAPI**
+- 📊 **Data Science & ML fundamentals**
+- ☁️ **Cloud deployment (Docker, CI/CD basics)**
+
+---
+
+## 💬 Ask Me About
+
+- Frontend: **HTML, CSS, JavaScript, React, Tailwind**
+- Backend: **Python (FastAPI, Flask), Node.js**
+- Databases: **MySQL, MongoDB**
+- AI basics, system design, hackathons
+
+---
+
+## 👨‍💻 Projects & Portfolio
+
+🔗 **Portfolio:**  
+👉 https://bhaveshburad729-portfolio.netlify.app/
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: **bhaveshburad729@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/bhavesh-burad-22102a1b8/
+- 📸 Instagram: https://instagram.com/_burad_bhavesh_2_6_
+- 💻 CodeChef: https://www.codechef.com/users/code_slayer729
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshburad729&show_icons=true&theme=radical&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshburad729&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshburad729&layout=compact&theme=radical" />
+</p>
