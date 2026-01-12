@@ -1,12 +1,12 @@
 <!-- HERO SECTION -->
 <h1 align="center">Hey 👋, I'm Bhavesh Nitin Burad</h1>
 <h3 align="center">
-Full-Stack Python Developer • AI & Data Science Enthusiast • Dev-Driven Learner from India 🇮🇳
+Full-Stack Developer • GenAI & Data Science Enthusiast • Dev-Driven Learner from India 🇮🇳
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Python+Developer;AI+%26+Data+Science+Enthusiast;FastAPI+%7C+React+%7C+GenAI;Smart+India+Hackathon+Team+Lead;Building+Real-World+AI+Products" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Generative+AI+%26+Automations;Data+Science+Enthusiast;Smart+India+Hackathon+Team+Lead;Building+Real-World+Tech+Solutions" />
   </a>
 </p>
 
@@ -29,46 +29,68 @@ Full-Stack Python Developer • AI & Data Science Enthusiast • Dev-Driven Lear
 
 ## 💫 About Me
 
-- 👨‍💻 Second-year **Computer Engineering student** at NBN Sinhgad Technical Institute, Pune  
+- 👨‍💻 **3rd Year Information Technology student**  
+- 🎓 Savitribai Phule Pune University (**SPPU**), Pune  
 - 🚀 **Team Lead – Smart India Hackathon (SIH)**  
-- 🤖 Passionate about **AI, Data Science & GenAI-powered systems**  
-- ⚙️ Backend-focused with **FastAPI, Python & scalable architectures**  
-- 🎯 Focused on solving **real-world problems with technology**
+- 🤖 Passionate about **Generative AI, Automations & Data Science**  
+- ⚙️ Strong interest in **building scalable, real-world applications**  
+- 🎯 Focused on **problem-solving, system thinking, and impact-driven development**
+
+---
+
+## ✅ What I Have Completed So Far
+
+- 🧠 Led a team in **Smart India Hackathon (SIH)**  
+- 🏆 Strong academic performance in engineering  
+- 🛠️ Built multiple **full-stack web applications**  
+- 🤖 Developed **AI-powered systems**:
+  - Smart ITR Filing Chatbot  
+  - GenAI-powered Financial Assistant  
+  - Resume Generator & Automation Tools  
+- 🌐 Designed and deployed **personal portfolio website**  
+- 👥 Led events, teams, and hackathon projects  
 
 ---
 
 ## 🔭 What I’m Currently Working On
 
-- 📚 **Data Structures & Algorithms**
-- 🤖 **Artificial Intelligence & Data Science**
-- 🧠 GenAI Projects:
-  - AI-powered Financial Assistant  
-  - Smart ITR Filing Chatbot  
-  - Resume Builder (Next.js + FastAPI)
+- 🤖 **Generative AI-based applications**
+- ⚙️ **AI & workflow automations**
+- 🌍 **Real-world problem-solving projects**
+- 💼 **Freelancing & client-based development work**
+- 🧠 Advanced **DSA & system-level thinking**
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🐍 Advanced **Python & FastAPI**
-- 📊 **Data Science & ML fundamentals**
-- ☁️ **Cloud deployment (Docker, CI/CD basics)**
+- 🤖 **Generative AI & LLM-based systems**
+- ⚙️ **Automations & AI-driven workflows**
+- 📊 **Data Science & data analysis techniques**
+- ☁️ **Deployment, scalability & cloud fundamentals**
 
 ---
 
 ## 💬 Ask Me About
 
 - Frontend: **HTML, CSS, JavaScript, React, Tailwind**
-- Backend: **Python (FastAPI, Flask), Node.js**
-- Databases: **MySQL, MongoDB**
-- AI basics, system design, hackathons
+- Backend & APIs: **REST APIs, system design basics**
+- Databases: **MySQL, MongoDB, PostgreSQL**
+- **Generative AI, automations, hackathons & real-world projects**
 
 ---
 
 ## 👨‍💻 Projects & Portfolio
 
-🔗 **Portfolio:**  
+🔗 **Portfolio Website**  
 👉 https://bhaveshburad729-portfolio.netlify.app/
+
+Projects include:
+- Full-stack applications  
+- GenAI & automation tools  
+- AI-powered chatbots  
+- Resume & productivity systems  
+- Academic & hackathon solutions  
 
 ---
 
@@ -84,7 +106,6 @@ Full-Stack Python Developer • AI & Data Science Enthusiast • Dev-Driven Lear
 ## 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
@@ -92,6 +113,7 @@ Full-Stack Python Developer • AI & Data Science Enthusiast • Dev-Driven Lear
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
