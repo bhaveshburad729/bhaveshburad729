@@ -1,28 +1,45 @@
 <!-- HERO SECTION -->
 <h1 align="center">Hey 👋, I'm Bhavesh Nitin Burad</h1>
+
 <h3 align="center">
 Full-Stack Developer • GenAI & Data Science Enthusiast • Dev-Driven Learner from India 🇮🇳
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Generative+AI+%26+Automations;Data+Science+Enthusiast;Smart+India+Hackathon+Team+Lead;Building+Real-World+Tech+Solutions" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Generative+AI+%26+Automations;Data+Science+Enthusiast;Smart+India+Hackathon+Team+Lead;Building+Real-World+Tech+Solutions"
+      alt="Typing Animation"
+    />
   </a>
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+<!-- RESPONSIVE GIF -->
+<p align="center">
+  <img
+    src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"
+    alt="Coding"
+    style="max-width: 420px; width: 90%; height: auto;"
+  />
+</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bhaveshburad729&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=bhaveshburad729&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
 <!-- SNAKE CONTRIBUTION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake.svg" />
+  <img alt="github-snake"
+    src="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake.svg" />
 </picture>
 
 ---
@@ -33,8 +50,8 @@ Full-Stack Developer • GenAI & Data Science Enthusiast • Dev-Driven Learner 
 - 🎓 Savitribai Phule Pune University (**SPPU**), Pune  
 - 🚀 **Team Lead – Smart India Hackathon (SIH)**  
 - 🤖 Passionate about **Generative AI, Automations & Data Science**  
-- ⚙️ Strong interest in **building scalable, real-world applications**  
-- 🎯 Focused on **problem-solving, system thinking, and impact-driven development**
+- ⚙️ Focused on **scalable, real-world application development**  
+- 🎯 Driven by **problem-solving and impact-driven engineering**
 
 ---
 
@@ -48,7 +65,7 @@ Full-Stack Developer • GenAI & Data Science Enthusiast • Dev-Driven Learner 
   - GenAI-powered Financial Assistant  
   - Resume Generator & Automation Tools  
 - 🌐 Designed and deployed **personal portfolio website**  
-- 👥 Led events, teams, and hackathon projects  
+- 👥 Led technical events, teams, and hackathon projects  
 
 ---
 
@@ -57,7 +74,7 @@ Full-Stack Developer • GenAI & Data Science Enthusiast • Dev-Driven Learner 
 - 🤖 **Generative AI-based applications**
 - ⚙️ **AI & workflow automations**
 - 🌍 **Real-world problem-solving projects**
-- 💼 **Freelancing & client-based development work**
+- 💼 **Freelancing & client-based development**
 - 🧠 Advanced **DSA & system-level thinking**
 
 ---
@@ -66,7 +83,7 @@ Full-Stack Developer • GenAI & Data Science Enthusiast • Dev-Driven Learner 
 
 - 🤖 **Generative AI & LLM-based systems**
 - ⚙️ **Automations & AI-driven workflows**
-- 📊 **Data Science & data analysis techniques**
+- 📊 **Data Science & data analysis**
 - ☁️ **Deployment, scalability & cloud fundamentals**
 
 ---
