@@ -15,12 +15,18 @@ Full-Stack Developer • GenAI & Data Science Enthusiast • Dev-Driven Learner 
 </p>
 
 <!-- RESPONSIVE GIF -->
+<!-- CUSTOM CYBERPUNK BANNER -->
 <p align="center">
-  <img
-    src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"
-    alt="Coding"
-    style="max-width: 420px; width: 90%; height: auto;"
+  <img 
+    src="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/main/assets/cyberpunk-banner.png"
+    alt="Bhavesh Cyberpunk Banner"
+    width="100%"
   />
+</p>
+
+<!-- ANIMATED WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
 </p>
 
 <p align="center">
