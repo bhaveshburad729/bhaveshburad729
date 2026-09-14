@@ -1,10 +1,18 @@
+<!-- ========================================================= -->
+
+<!--              BHAVESH BURAD — GITHUB PROFILE              -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
 # Hey, I'm Bhavesh Burad 👋
 
 ### Full-Stack Developer · AI & Automation Builder
 
-I build **AI-powered applications, modern web products, and intelligent automation systems.**
+<p>
+  I build <b>AI-powered applications, modern web products, and intelligent automation systems.</b>
+</p>
 
 <br/>
 
@@ -51,11 +59,11 @@ mindset: "Build → Learn → Improve → Repeat"
 
 ## ⚡ What I Build
 
-🤖 **AI Applications** — Intelligent tools and AI-powered systems
+🤖 **AI Applications** — Intelligent tools, assistants, and AI-powered systems.
 
-⚡ **Automation Systems** — Smart workflows and integrations using **n8n**
+⚡ **Automation Systems** — Smart workflows and integrations using **n8n**.
 
-🌐 **Full-Stack Products** — Modern frontend, powerful APIs, databases, and deployment
+🌐 **Full-Stack Products** — Modern frontend, APIs, databases, and deployment.
 
 ---
 
@@ -67,7 +75,7 @@ mindset: "Build → Learn → Improve → Repeat"
 
 <br/><br/>
 
-**FastAPI · Python · React · Next.js · JavaScript · PostgreSQL · n8n**
+### ⚡ FastAPI · 🐍 Python · ⚛️ React · ▲ Next.js · 🟨 JavaScript · 🐘 PostgreSQL · 🔄 n8n
 
 </div>
 
@@ -88,9 +96,44 @@ mindset: "Build → Learn → Improve → Repeat"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhaveshburad729&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=bhaveshburad729&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+height="170"
+alt="Bhavesh's GitHub Stats"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshburad729&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshburad729&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+height="170"
+alt="Bhavesh's Top Languages"
+/>
+
+</div>
+
+---
+
+# 🐍 Contribution Journey
+
+<div align="center">
+
+<picture>
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake-dark.svg"
+/>
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake.svg"
+/>
+
+<img
+ alt="GitHub Contribution Snake Animation"
+ src="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake.svg"
+/>
+
+</picture>
 
 </div>
 
@@ -101,15 +144,15 @@ mindset: "Build → Learn → Improve → Repeat"
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bhavesh-burad-22102a1b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:bhaveshburad729@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/bhaveshburad729">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
