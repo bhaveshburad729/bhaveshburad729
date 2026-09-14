@@ -1,160 +1,119 @@
-<!-- HERO SECTION -->
-<h1 align="center">Hey 👋, I'm Bhavesh Nitin Burad</h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Developer • GenAI & Data Science Enthusiast • Dev-Driven Learner from India 🇮🇳
-</h3>
+# Hey, I'm Bhavesh Burad 👋
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Generative+AI+%26+Automations;Data+Science+Enthusiast;Smart+India+Hackathon+Team+Lead;Building+Real-World+Tech+Solutions"
-      alt="Typing Animation"
-    />
-  </a>
-</p>
+### Full-Stack Developer · AI & Automation Builder
 
-<!-- RESPONSIVE GIF -->
-<!-- CUSTOM CYBERPUNK BANNER -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/main/assets/cyberpunk-banner.png"
-    alt="Bhavesh Cyberpunk Banner"
-    width="100%"
-  />
-</p>
+I build **AI-powered applications, modern web products, and intelligent automation systems.**
 
-<!-- ANIMATED WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
-</p>
+<br/>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=bhaveshburad729&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
+<a href="https://www.linkedin.com/in/bhavesh-burad-22102a1b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/bhaveshburad729">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:bhaveshburad729@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://www.codechef.com/users/code_slayer729">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+<a href="https://bhaveshburad729-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
 
 ---
 
-<!-- SNAKE CONTRIBUTION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake.svg" />
-  <img alt="github-snake"
-    src="https://raw.githubusercontent.com/bhaveshburad729/bhaveshburad729/output/github-snake.svg" />
-</picture>
+## 👨‍💻 About Me
+
+```yaml
+role: Full-Stack Developer & AI Automation Builder
+
+education: B.E. Information Technology | 4th Year
+
+focus:
+  - AI-powered applications
+  - Automation workflows
+  - Real-world SaaS products
+
+mindset: "Build → Learn → Improve → Repeat"
+```
 
 ---
 
-## 💫 About Me
+## ⚡ What I Build
 
-- 👨‍💻 **3rd Year Information Technology student**  
-- 🎓 Savitribai Phule Pune University (**SPPU**), Pune  
-- 🚀 **Team Lead – Smart India Hackathon (SIH)**  
-- 🤖 Passionate about **Generative AI, Automations & Data Science**  
-- ⚙️ Focused on **scalable, real-world application development**  
-- 🎯 Driven by **problem-solving and impact-driven engineering**
+🤖 **AI Applications** — Intelligent tools and AI-powered systems
 
----
+⚡ **Automation Systems** — Smart workflows and integrations using **n8n**
 
-## ✅ What I Have Completed So Far
-
-- 🧠 Led a team in **Smart India Hackathon (SIH)**  
-- 🏆 Strong academic performance in engineering  
-- 🛠️ Built multiple **full-stack web applications**  
-- 🤖 Developed **AI-powered systems**:
-  - Smart ITR Filing Chatbot  
-  - GenAI-powered Financial Assistant  
-  - Resume Generator & Automation Tools  
-- 🌐 Designed and deployed **personal portfolio website**  
-- 👥 Led technical events, teams, and hackathon projects  
+🌐 **Full-Stack Products** — Modern frontend, powerful APIs, databases, and deployment
 
 ---
 
-## 🔭 What I’m Currently Working On
+# 🛠️ Core Tech Stack
 
-- 🤖 **Generative AI-based applications**
-- ⚙️ **AI & workflow automations**
-- 🌍 **Real-world problem-solving projects**
-- 💼 **Freelancing & client-based development**
-- 🧠 Advanced **DSA & system-level thinking**
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=fastapi,python,react,nextjs,js,postgres,nodejs,git,github" />
 
-## 🌱 Currently Learning
+<br/><br/>
 
-- 🤖 **Generative AI & LLM-based systems**
-- ⚙️ **Automations & AI-driven workflows**
-- 📊 **Data Science & data analysis**
-- ☁️ **Deployment, scalability & cloud fundamentals**
+**FastAPI · Python · React · Next.js · JavaScript · PostgreSQL · n8n**
+
+</div>
 
 ---
 
-## 💬 Ask Me About
+# 🚀 Current Focus
 
-- Frontend: **HTML, CSS, JavaScript, React, Tailwind**
-- Backend & APIs: **REST APIs, system design basics**
-- Databases: **MySQL, MongoDB, PostgreSQL**
-- **Generative AI, automations, hackathons & real-world projects**
-
----
-
-## 👨‍💻 Projects & Portfolio
-
-🔗 **Portfolio Website**  
-👉 https://bhaveshburad729-portfolio.netlify.app/
-
-Projects include:
-- Full-stack applications  
-- GenAI & automation tools  
-- AI-powered chatbots  
-- Resume & productivity systems  
-- Academic & hackathon solutions  
+```text
+🤖 Building AI-powered applications
+⚡ Automating real-world workflows
+🌐 Creating scalable full-stack products
+🧠 Exploring AI Agents & intelligent systems
+```
 
 ---
 
-## 📫 How to Reach Me
+# 📊 GitHub Activity
 
-- 📧 Email: **bhaveshburad729@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/bhavesh-burad-22102a1b8/
-- 📸 Instagram: https://instagram.com/_burad_bhavesh_2_6_
-- 💻 CodeChef: https://www.codechef.com/users/code_slayer729
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=bhaveshburad729&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-## 🛠️ Languages & Tools
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshburad729&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshburad729&show_icons=true&theme=radical&cache_seconds=86400" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshburad729&theme=radical" />
-</p>
+<a href="https://www.linkedin.com/in/bhavesh-burad-22102a1b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshburad729&layout=compact&theme=radical" />
-</p>
+<a href="mailto:bhaveshburad729@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bhaveshburad729">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ⚡ Building ideas into products.
+
+</div>
